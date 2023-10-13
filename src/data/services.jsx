@@ -5,17 +5,17 @@ import { FaHandHoldingHeart } from 'react-icons/fa';
 export default [
   {
     title: 'Web Design',
-    description: 'random',
-    icon: <MdWeb className='w-full h-full'/>,
+    description: 'Build a web design',
+    icon: <MdWeb className='w-full h-full' />,
   },
   {
     title: 'Ui Design',
-    description: 'random',
+    description: 'Build a ui design',
     icon: <FaHandHoldingHeart className='w-full h-full' />,
   },
   {
     title: 'Web Development',
-    description: 'random',
-    icon: <VscCode className='w-full h-full'/>,
+    description: 'Building a web development',
+    icon: <VscCode className='w-full h-full' />,
   },
-]
+];
