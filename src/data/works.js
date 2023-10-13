@@ -3,24 +3,24 @@ export default [
     title: 'Game App',
     imgUrl: '/public/project1.png',
     tech: ['React JS', 'Tailwinds', 'chakra ui', 'Vercel'],
-    workUrl: 'https://rebuild-game-app-beta.vercel.app/',
+    workUrl: 'https://github.com/HadZzz/Rebuild_GameApp_Beta',
   },
   {
     title: 'Hiragana Quiz',
     imgUrl: '/public/project2.png',
     tech: ['React JS', 'Tailwinds', 'Vercel'],
-    workUrl: 'hiragana-quiz-three.vercel.app',
+    workUrl: 'https://github.com/HadZzz/hiragana',
   },
   {
     title: 'Quotes',
     imgUrl: '/public/project3.png',
     tech: ['React JS', 'CSS', 'Vercel'],
-    workUrl: 'quotes-sable.vercel.app',
+    workUrl: 'https://github.com/HadZzz/quotes',
   },
   {
     title: 'PortFolio',
     imgUrl: '/public/project4.png',
     tech: ['React JS', 'Tailwinds', 'Vercel'],
-    workUrl: 'portfolio-beta-six-eta.vercel.app',
+    workUrl: 'https://github.com/HadZzz/portfolio_beta',
   },
 ];
